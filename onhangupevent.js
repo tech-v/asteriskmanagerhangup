@@ -62,3 +62,5 @@ ami.action({
     'name2': 'helllog'
   }
 }, function (err, res) { });
+
+console.log('program ends here');
